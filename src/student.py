@@ -6,11 +6,11 @@ class Student:
 
     
         
-    def update_name(self, new_name):
-        self.name = new_name
+    # def update_name(self, new_name):
+    #     self.name = new_name
 
-    def change_cohort(self, new_cohort):
-        self.cohort = new_cohort
+    # def change_cohort(self, new_cohort):
+    #     self.cohort = new_cohort
 
     def talk(self):
         return "I can talk!"
